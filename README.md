@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Computer Vision and Classical Machine Learning<br>👯 I’m looking to collaborate on Computer Vision Projects<br>🌱 I’m currently learning Natural Language Processing and Large Language Models(LLMs)<br>🧑‍💻 Very much interested in Competitive Programming(Newbie on Codeforces)
+🔭 I’m currently working on Computer Vision and Classical Machine Learning<br>👯 I’m looking to collaborate on Computer Vision Projects<br>🌱 I’m currently learning Natural Language Processing and Large Language Models(LLMs)<br>
 
 
 ## 🌐 Socials:
