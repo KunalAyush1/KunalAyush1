@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Computer Vision and AI Engieering <br>👯 I’m looking to collaborate on Computer Vision Projects<br>🌱 I’m currently learning Natural Language Processing and Large Language Models(LLMs)<br>
+🔭 I’m currently working on AI Engieering & Computer Vision   <br>👯 I’m looking to collaborate on Computer Vision Projects<br>🌱 I’m currently learning Natural Language Processing and Large Language Models(LLMs)<br>
 
 
 ## 🌐 Socials:
