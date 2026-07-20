@@ -9,7 +9,7 @@ training models, wiring the pipelines, and serving them fast.
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/portfolio-metaneuron.dev-F5A623?style=flat-square&labelColor=1a1a1a)](https://metaneuron.dev)
+[![Portfolio](https://img.shields.io/badge/portfolio-metaneuron.dev-F5A623?style=flat-square&labelColor=1a1a1a)](https://ayushkunal.live)
 [![X](https://img.shields.io/badge/x-@metaneurons-F5A623?style=flat-square&labelColor=1a1a1a&logo=x&logoColor=white)](https://x.com/metaneurons)
 [![LinkedIn](https://img.shields.io/badge/linkedin-kunal-F5A623?style=flat-square&labelColor=1a1a1a&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjUgMHoiLz48L3N2Zz4=)](https://www.linkedin.com/in/singh-kunal-akhilesh-654b6a323/)
 [![Email](https://img.shields.io/badge/email-say%20hi-F5A623?style=flat-square&labelColor=1a1a1a&logo=gmail&logoColor=white)](mailto:singhkunalakhilesh2@gmail.com)
@@ -23,7 +23,7 @@ training models, wiring the pipelines, and serving them fast.
 <br/><br/>
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=KunalAyush1&show_icons=true&hide_border=true&bg_color=00000000&title_color=F5A623&icon_color=F5A623&text_color=9e9e9e&ring_color=F5A623&hide_title=true" alt="stats" />
-<img height="165" src="https://streak-stats.demolab.com?user=KunalAyush1&hide_border=true&background=00000000&ring=F5A623&fire=F5A623&currStreakLabel=F5A623&sideLabels=9e9e9e&currStreakNum=e0e0e0&sideNums=e0e0e0&dates=6e6e6e" alt="streak" />
+
 
 <br/><br/>
 
