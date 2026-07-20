@@ -24,8 +24,6 @@ training models, wiring the pipelines, and serving them fast.
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=KunalAyush1&hide_border=true&hide_title=true&bg_color=00000000&color=9e9e9e&line=F5A623&point=e0e0e0&area=true&area_color=F5A623" alt="activity graph" width="95%" />
 
-<img src="https://ghchart.rshah.org/F5A623/KunalAyush1" alt="contribution graph" width="95%" />username=KunalAyush1&show_icons=true&hide_border=true&bg_color=00000000&title_color=F5A623&icon_color=F5A623&text_color=9e9e9e&ring_color=F5A623&hide_title=true" alt="stats" />
-
 
 <br/><br/>
 
