@@ -1,29 +1,32 @@
-![](https://komarev.com/ghpvc/?username=KunalAyush1&label=Visitors&color=green)
+<div align="center">
 
-# 💫 About Me:
-🔭 I’m currently working on AI Engieering & Computer Vision   <br>👯 I’m looking to collaborate on Computer Vision Projects<br>🌱 I’m currently diving deep into LLMs and GenAI<br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=F5A623&center=true&vCenter=true&width=520&lines=hey%2C+I'm+Kunal+%E2%80%94+metaneuron;building+AI+systems+end+to+end;models+%C2%B7+pipelines+%C2%B7+inference+%C2%B7+infra" alt="metaneuron" />
 
+<br/>
 
-## 🌐 Socials:
- [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/metaneurons) 
+undergrad shipping ML from the math to the metal — <br/>
+training models, wiring the pipelines, and serving them fast.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=KunalAyush1&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=KunalAyush1&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KunalAyush1&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=KunalAyush1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[![Portfolio](https://img.shields.io/badge/portfolio-metaneuron.dev-F5A623?style=flat-square&labelColor=1a1a1a)](https://metaneuron.dev)
+[![X](https://img.shields.io/badge/x-@metaneurons-F5A623?style=flat-square&labelColor=1a1a1a&logo=x&logoColor=white)](https://x.com/metaneurons)
+[![LinkedIn](https://img.shields.io/badge/linkedin-kunal-F5A623?style=flat-square&labelColor=1a1a1a&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjUgMHoiLz48L3N2Zz4=)](https://www.linkedin.com/in/singh-kunal-akhilesh-654b6a323/)
+[![Email](https://img.shields.io/badge/email-say%20hi-F5A623?style=flat-square&labelColor=1a1a1a&logo=gmail&logoColor=white)](mailto:singhkunalakhilesh2@gmail.com)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=KunalAyush1&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<img src="https://skillicons.dev/icons?i=pytorch,python,fastapi,docker,linux,git&theme=dark" alt="stack" />
 
----
-[![](https://visitcount.itsvg.in/api?id=KunalAyush1&icon=0&color=0)](https://visitcount.itsvg.in)
+<sub>currently deep in — **transformers · computer vision · diffusion · LangGraph**</sub>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br/><br/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=KunalAyush1&show_icons=true&hide_border=true&bg_color=00000000&title_color=F5A623&icon_color=F5A623&text_color=9e9e9e&ring_color=F5A623&hide_title=true" alt="stats" />
+<img height="165" src="https://streak-stats.demolab.com?user=KunalAyush1&hide_border=true&background=00000000&ring=F5A623&fire=F5A623&currStreakLabel=F5A623&sideLabels=9e9e9e&currStreakNum=e0e0e0&sideNums=e0e0e0&dates=6e6e6e" alt="streak" />
+
+<br/><br/>
+
+<sub>⚡ one neuron, firing.</sub>
+
+</div>
